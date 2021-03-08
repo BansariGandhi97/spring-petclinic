@@ -1,8 +1,8 @@
 Deliverables
 
 5 pts Your Github account showing that is has been forked from the depaulcdm/springpetclinic repository.
-![D1](figures/Deliverables1.PNG)
 
+![D1](figures/Deliverables1.PNG)
 5 pts Your Travis CI dashboard showing a successful first build.
 ![D2](figures/Deliverables2.PNG)
 
